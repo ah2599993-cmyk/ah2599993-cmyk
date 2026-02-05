@@ -1,33 +1,30 @@
 <h1 align="left" id="ali-hassan-title">:wave: Hello there! I'm Ali Hassan</h1>
-<h3 align="left">Flutter Developer | Mobile Application Engineer</h3>
+<h3 align="left">Flutter & Dart Developer | Specialist in Scalable Mobile Apps</h3>
 
 <p align="left">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue" alt="page views" />
+  <a href="https://github.com/ali-hassan-674b69357">
+    <img src="https://komarev.com/ghpvc/?username=ali-hassan-674b69357&color=blue" alt="page views" />
   </a>
-  <a href="[رابط_موقعك_أو_بورتفوليو]">
-    <img alt="Website" src="https://img.shields.io/website?url=[رابط_موقعك]">
-  </a>
-  <a href="https://github.com/YourGitHubUsername?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YourGitHubUsername?style=flat&logo=github">
+  <a href="https://www.linkedin.com/in/ali-hassan-674b69357">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 <a href="#ali-hassan-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's Stats" align="right" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hassan-674b69357&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's Stats" align="right" width="400" />
 </a>
 
-- :office: &nbsp;I'm currently working as a **Flutter Developer**
-- :seedling: &nbsp;I’m currently learning **Advanced State Management & Clean Architecture**
-- :speech_balloon: &nbsp;I like to talk about **Mobile UI/UX** and **Dart Performance**
-- :book: &nbsp;Check out my projects on my **[Portfolio]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :rocket: &nbsp;Expertise in **Flutter & Dart** for cross-platform development.
+- :brain: &nbsp;Advanced knowledge in **State Management using Bloc/Cubit**.
+- :architecture_bottom: &nbsp;Strong focus on **Clean Architecture** and **SOLID principles**.
+- :seedling: &nbsp;Continuously optimizing app performance and UI/UX responsiveness.
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/ali-hassan-674b69357)**
 
 <br>
 
-<h2 align="left" id="tech-stack">Favorite Tech Stack</h2>
+<h2 align="left" id="tech-stack">Technical Skills</h2>
 
-> Tools, languages, and technologies I use to build amazing apps.
+> My primary toolkit for building high-performance applications.
 
 <table>
   <tr>
@@ -38,6 +35,10 @@
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
       <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="48" height="48" alt="Bloc" />
+      <br>Bloc/Cubit
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
@@ -51,29 +52,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" height="48" alt="Android" />
       <br>Android SDK
     </td>
-    <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48" height="48" alt="iOS" />
-      <br>iOS (Swift)
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
   </tr>
 </table>
 
 <h2 align="left">Top Languages</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassan-674b69357&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
-
-[YourGitHubUsername]: https://github.com/YourGitHubUsername
-[linkedin]: https://www.linkedin.com/in/YourLinkedInProfile
-[portfolio]: https://yourportfolio.com
